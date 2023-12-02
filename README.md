@@ -15,7 +15,9 @@
  - [Azure: Troubleshooting of VM](holder.com)
 
 - [Azure: Networking and Diagnositcs](Holder.com)
-<b>VMWare (Localized Vitrtual Machine Software)</b>
+
+<b>VMWare💿 (Localized Vitrtual Machine Software)</b>
+  
   -[VmWare: installation of VmWare software](Holder.com)
 
   -[Vmware: Booting and multi Os launching](Holder.com)
