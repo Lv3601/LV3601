@@ -1,5 +1,12 @@
-### Hi there I am AL👋
+### Hi there I am Leighton, An <a href="Portal.azure.com">IT Specialist😄</a></h1>
+<h2>🛠️Information Technologys:</H2></H2></h2>
+- <b>OSTickets (Help Desk Ticketing System) </b>
 
+- [OsTicket: prerequisites and Installation](holder.com)
+
+- [OSTicket: Post-Installation Configuration](Holder.com)
+
+ - [OsTicket: Ticket Lifecycle Examples](holder.com)
 <!--
 **Lv3601/Lv3601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
